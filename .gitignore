@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.bak
+*.swp
+*.swo
+*.log
+*.sqlite
+__pycache__
+assets
+node_modules
+*.tmp
+.DS_Store
