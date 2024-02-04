@@ -12,3 +12,24 @@ assets
 node_modules
 *.tmp
 .DS_Store
+
+# Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Logs
+/logs/
+/logs/*
+
+# Configuration files
+*.cfg
+*.conf
+
+# Temporary files
+__pycache__/
+*.db
